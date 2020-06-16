@@ -1,1 +1,3 @@
 Master about GIT - is DVCS
+Welcoe to Git Training
+Use git diff comand
