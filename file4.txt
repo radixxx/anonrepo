@@ -1,2 +1,6 @@
 File from Dev branch
 Add new name of branch "testing"
+
+Push branch: 
+git push origin "branch_name"
+git push -u origin "branch_name"
