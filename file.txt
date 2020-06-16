@@ -1,4 +1,4 @@
 Master about GIT - is DVCS
 Welcoe to Git Training
 Use git diff comand
-Power of Git branches
+Power of Git branches, and git Knowleges
