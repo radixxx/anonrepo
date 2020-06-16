@@ -2,3 +2,4 @@ Master about GIT - is DVCS
 Welcoe to Git Training
 Use git diff comand
 Master changes + Power of Git branches and git Knowleges
+Edit from GitHub
